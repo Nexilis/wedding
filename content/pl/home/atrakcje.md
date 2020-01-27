@@ -1,15 +1,8 @@
 +++
-
 widget = "featurette"
-headless = true  # This file represents a page section.
-weight = 35  # Order that this section will appear.
+headless = true
+weight = 35
 title = "Atrakcje"
-
-# ... Put Your Section Options Here (title etc.) ...
-
-# Showcase personal skills or business features.
-# Add/remove as many `[[feature]]` blocks below as you like.
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
   icon = "dove"
@@ -39,7 +32,7 @@ title = "Atrakcje"
   icon = "utensils"
   icon_pack = "fas"
   name = "Jedzenie i picie"
-  description = "pyszne i wykwintne, open bar"
+  description = "lokalne i pyszne, open bar"
 
 [[feature]]
   icon = "camera-retro"

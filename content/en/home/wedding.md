@@ -10,8 +10,8 @@ title = "Wedding"
 
 [design.spacing]
   padding = ["100px", "0", "100px", "0"]
-
 +++
+
 ### Menu
 
 Here we will post the menu.

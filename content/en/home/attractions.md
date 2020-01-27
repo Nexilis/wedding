@@ -1,49 +1,42 @@
 +++
-
 widget = "featurette"
-headless = true  # This file represents a page section.
-weight = 35  # Order that this section will appear.
+headless = true
+weight = 35
 title = "Attractions"
-
-# ... Put Your Section Options Here (title etc.) ...
-
-# Showcase personal skills or business features.
-# Add/remove as many `[[feature]]` blocks below as you like.
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
   icon = "dove"
   icon_pack = "fas"
-  name = "Ślub"
-  description = "na świeżym powietrzu"
+  name = "Wedding"
+  description = "happening outdoor"
 
 [[feature]]
   icon = "theater-masks"
   icon_pack = "fas"
-  name = "Wesele"
-  description = "z Wami do samego rana"
+  name = "Party"
+  description = "with you until the morning"
 
 [[feature]]
   icon = "swimmer"
   icon_pack = "fas"
-  name = "Piękna okolica"
-  description = "natura, park i jezioro"
+  name = "Location"
+  description = "nature, park and lake"
 
 [[feature]]
   icon = "record-vinyl"
   icon_pack = "fas"
-  name = "DJ i animacje"
-  description = "bez disco polo, bez obciachowych zabaw"
+  name = "DJ and host"
+  description = "good music, great fun"
 
 [[feature]]
   icon = "utensils"
   icon_pack = "fas"
-  name = "Jedzenie i picie"
-  description = "pyszne i wykwintne, open bar"
+  name = "Food and drinks"
+  description = "local and delicious, open bar"
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Fotobudka"
-  description = "zabierzcie ze sobą małą pamiątkę"
+  description = "take a little souvenir with you"
 +++
