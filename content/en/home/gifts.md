@@ -2,7 +2,7 @@
 widget = "blank"
 headless = true
 active = true
-weight = 60
+weight = 45
 title = "Gifts"
 
 [design]
