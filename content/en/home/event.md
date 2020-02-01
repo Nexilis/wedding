@@ -10,7 +10,7 @@ date_format = "Monday, 02 Jan 2006"
   organization = "Warlity, 17:30"
   title = "Ceremony"
   date_start = "2020-06-06"
-  description = "The wedding ceremony will be held at [Warlity](https://warlity.pl/en/homeen/), on the lakeshore (about a hundred meters from the residence)."
+  description = "The wedding ceremony will be held at [Warlity](https://warlity.pl/en/homeen/), on the lakeshore - about a hundred meters from the residence."
 
 [[item]]
   organization = "Following the ceremony"
