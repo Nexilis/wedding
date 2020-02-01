@@ -53,5 +53,10 @@ subtitle = "Mamy nadzieję, że będziecie tego dnia z nami"
  # CSS class.
  css_class = ""
 +++
+Witamy na naszej stronie ślubnej - super, że jesteście!
 
-Poniżej znajdziecie wszystkie niezbędne informacje organizacyjne oraz kontaktowe. Jeśli macie specjalne życzenia jeśli chodzi o menu (np. vege), potrzebujecie pomocy z dojazdem, noclegiem lub nie będzie mogli przybyć, to koniecznie nas powiadomcie.
+Poniżej znajdziecie garść niezbędnych informacji dotyczących naszego ślubu i wesela.
+Koniecznie dajcie nam znać, czy możemy liczyć na Waszą obecność i czy macie jakieś specjalne preferencje żywieniowe.
+
+Czekamy na Was!
+
