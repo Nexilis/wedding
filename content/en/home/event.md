@@ -3,7 +3,7 @@ widget = "accomplishments"
 headless = true
 active = true
 weight = 20
-title = "Event"
+title = "Events"
 date_format = "Monday, 02 Jan 2006"
 
 [[item]]

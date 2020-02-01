@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 40
-title = "Accommodation"
+title = "Accommodations"
 
 [design]
   columns = "1"
@@ -18,7 +18,7 @@ title = "Accommodation"
 +++
 {{% alert note %}}
 
-Unfortunately we are not able to provide everyone with accommodation in the Warlity Palace due to the limited number of rooms. We will try to help everyone to find accommodation and transportation, if you are interested.
+Unfortunately we are not able to provide everyone with accommodations in the Warlity Palace due to the limited number of rooms. We will try to help everyone to find accommodations and transportation, if you are interested.
 
 **Please, let us know!**
 
