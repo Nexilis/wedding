@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 30
-title = "Wedding"
+title = "Wedding reception"
 
 [design]
   columns = "2"
@@ -19,7 +19,3 @@ Here we will post the menu.
 ### Table layout
 
 Here we will place the table layout.
-
-### Kids
-
-Here we will post information about fun for kids.

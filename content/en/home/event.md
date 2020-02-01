@@ -7,16 +7,14 @@ title = "Events"
 date_format = "Monday, 02 Jan 2006"
 
 [[item]]
-  organization = "Warlity Palace, 17:30"
-  organization_url = "https://warlity.pl/en/homeen/"
-  title = "Wedding"
+  organization = "Warlity, 17:30"
+  title = "Ceremony"
   date_start = "2020-06-06"
-  description = "The wedding will take place near the lake in the vicinity of the Warlity Palace."
+  description = "The wedding ceremony will be held at [Warlity](https://warlity.pl/en/homeen/), on the lakeshore (about a hundred meters from the residence)."
 
 [[item]]
-  organization = "Warlity Palace, after the wedding"
-  organization_url = "https://warlity.pl/en/homeen/"
-  title = "Party"
+  organization = "Following the ceremony"
+  title = "Reception"
   date_start = "2020-06-06"
-  description = "The party will take place at Warlity Palace."
+  description = "The reception will take place at Warlity. Remember to bring your dancing shoes! :)"
 +++

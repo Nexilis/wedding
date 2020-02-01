@@ -19,17 +19,17 @@
     weight = 1
 
   [[en.menu.main]]
-    name = "Event"
+    name = "Events"
     url = "#event"
     weight = 2
 
   [[en.menu.main]]
-    name = "Wedding"
+    name = "Wedding reception"
     url = "#wedding"
     weight = 3
 
   [[en.menu.main]]
-    name = "Accommodation"
+    name = "Accommodations"
     url = "#accommodation"
     weight = 4
 

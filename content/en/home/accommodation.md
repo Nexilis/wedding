@@ -17,7 +17,7 @@ title = "Accommodations"
 
 +++
 Unfortunately, the number of rooms in Warlity is limited.
-There are a number of interesting options in the area (most of them in Olsztyn), you will find some links below.
+There are a number of interesting options in the area (most of them in Olsztyn) - you will find some links below.
 
 **Hotels and B&Bs:**
 - [Hotel Marina Club](http://www.booking.com/Share-RbbJ6P)
@@ -30,12 +30,12 @@ There are a number of interesting options in the area (most of them in Olsztyn),
 
 **Apartments:**
 - [Wodamoja - apartamenty nad jeziorem](http://www.booking.com/Share-m6dc6f)
-- [Apartamenty Srebrny Świerk - 2 opcje: 2 sypialnie + 3 sypialnie](http://www.booking.com/Share-MHC9LNl)
+- [Apartamenty Srebrny Świerk - 2 options: 2 + 3 bedrooms](http://www.booking.com/Share-MHC9LNl)
 - [Apartament Sweet House](http://www.booking.com/Share-xNEP5l)
 - [Apartament Tuwima Park](http://www.booking.com/Share-Cuu5u4b)
 - [Apartament Kortowski](http://www.booking.com/Share-4zQSO9)
 - [Apartament, ks. Bilitewskiego](http://www.booking.com/Share-h5tmd0)
-- [DK Apartament Stare Miasto - 2 sypialnie](http://www.booking.com/Share-9RA734)
+- [DK Apartament Stare Miasto - 2 bedrooms](http://www.booking.com/Share-9RA734)
 - [Calamo Apartament](http://www.booking.com/Share-kr74vZ)
 - [Kameralny apartament](http://www.booking.com/Share-AFq2Le)
 - [Kameralny apartament II](http://www.booking.com/Share-U6bq04)
@@ -46,4 +46,7 @@ There are a number of interesting options in the area (most of them in Olsztyn),
 
 If you would like us to assist you in making a reservation, **please let us know as soon as possible.**
 
-We are also working on providing a transportation option between Warlity and Olsztyn. More information soon.
+
+# Transportation
+
+We are working on providing a transportation option between Warlity and Olsztyn. More information soon.

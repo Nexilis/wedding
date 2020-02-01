@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 40
-title = "Nocleg"
+title = "Noclegi"
 
 [design]
   columns = "1"
@@ -30,7 +30,7 @@ W okolicy jest sporo interesujących opcji, jeśli chodzi o noclegi (polecamy Ol
 
 **Apartamenty:**
 - [Wodamoja - apartamenty nad jeziorem](http://www.booking.com/Share-m6dc6f)
-- [Apartamenty Srebrny Świerk - 2 opcje: 2 sypialnie + 3 sypialnie](http://www.booking.com/Share-MHC9LNl)
+- [Apartamenty Srebrny Świerk - 2 opcje: 2 + 3 sypialnie](http://www.booking.com/Share-MHC9LNl)
 - [Apartament Sweet House](http://www.booking.com/Share-xNEP5l)
 - [Apartament Tuwima Park](http://www.booking.com/Share-Cuu5u4b)
 - [Apartament Kortowski](http://www.booking.com/Share-4zQSO9)
@@ -47,4 +47,6 @@ W okolicy jest sporo interesujących opcji, jeśli chodzi o noclegi (polecamy Ol
 Jeśli potrzebujecie pomocy w znalezieniu odpowiedniego zakwaterowania albo zrobieniu rezerwacji,
 **dajcie nam znać tak szybko, jak to możliwe.**
 
-Staramy się również zorganizować transport między Warlitami a Olsztynem. Więcej informacji na ten temat wkrótce.
+
+# Transport
+Staramy się zorganizować transport między Warlitami a Olsztynem. Więcej informacji na ten temat wkrótce.
