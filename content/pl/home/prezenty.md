@@ -15,7 +15,8 @@ title = "Prezenty"
   padding = ["100px", "0", "100px", "0"]
   
 +++
-{{< figure library="true" src="kwiaty.png" lightbox="true" >}}
+{{< figure library="false" src="flowers.png" lightbox="true" >}}
 Amerykańscy naukowcy udowodnili, że od wina i dobrej kawy się chudnie. :)
 
+{{< figure library="false" src="gifts.png" lightbox="true" >}}
 Wszystko, co potrzebne do szczęścia już mamy, ale zbieramy na dalekie podróże.

@@ -47,6 +47,6 @@ However, there are many interesting options in the area (most of them in Olsztyn
 If you would like us to assist you in making a reservation, **please let us know as soon as possible.**
 
 
-# Transportation
+# Guest Transportation
 
-We are working on providing a transportation option between Warlity and Olsztyn. More information soon.
+We are working on providing a transportation option between Warlity and Olsztyn for our Guests. More information soon.

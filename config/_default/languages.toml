@@ -34,7 +34,7 @@
     weight = 4
 
   [[en.menu.main]]
-    name = "Us"
+    name = "About us"
     url = "#us"
     weight = 5
 

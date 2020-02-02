@@ -48,5 +48,5 @@ Jeśli potrzebujecie pomocy w znalezieniu odpowiedniego zakwaterowania albo zrob
 **dajcie nam znać tak szybko, jak to możliwe.**
 
 
-# Transport
-Staramy się zorganizować transport między Warlitami a Olsztynem. Więcej informacji na ten temat wkrótce.
+# Transport Gości
+Staramy się zorganizować transport między Warlitami a Olsztynem dla naszych Gości. Więcej informacji na ten temat wkrótce.

@@ -13,4 +13,4 @@ title = "Galeria"
 
 +++
 
-Gdy tylko otrzymamy zdjęcia i film z uroczystości umieścimy je na stronie, dzięki czemu będziecie mieli możliwość obejrzeć je oraz pobrać.
+Gdy tylko otrzymamy zdjęcia z uroczystości umieścimy je na stronie, dzięki czemu będziecie mieli możliwość obejrzeć je oraz pobrać.

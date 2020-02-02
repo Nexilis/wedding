@@ -13,4 +13,4 @@ title = "Photo gallery"
 
 +++
 
-As soon as we receive media, we will put them here, so you will be able to view and download them.
+We will publish our wedding photo gallery as soon as we receive it, so you will be able to view and download some photos.

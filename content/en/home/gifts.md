@@ -17,10 +17,8 @@ title = "Gifts"
 
 +++
 
-## <i class="fas fa-spa"></i> = <i class="fas fa-heart-broken"></i> <i class="fas fa-long-arrow-alt-right"></i> <i class="fas fa-wine-bottle"></i> = <i class="far fa-laugh-squint"></i>
-
+{{< figure library="false" src="flowers.png" lightbox="true" >}}
 It has been proven that wine and good coffee help to keep your weight down. :)
 
-## <i class="fas fa-gifts"></i> = <i class="fas fa-heart-broken"></i> <i class="fas fa-long-arrow-alt-right"></i> <i class="fas fa-envelope"></i> = <i class="far fa-laugh-squint"></i>
-
+{{< figure library="false" src="gifts.png" lightbox="true" >}}
 We already have everything we need, but we are saving up to travel the world.
