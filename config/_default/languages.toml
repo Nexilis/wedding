@@ -29,7 +29,7 @@
     weight = 3
 
   [[en.menu.main]]
-    name = "Accommodations"
+    name = "Where to stay"
     url = "#accommodation"
     weight = 4
 

@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 40
-title = "Accommodations"
+title = "Where to stay"
 
 [design]
   columns = "1"
@@ -17,7 +17,7 @@ title = "Accommodations"
 
 +++
 Unfortunately, the number of rooms in Warlity is limited.
-There are a number of interesting options in the area (most of them in Olsztyn) - you will find some links below.
+However, there are many interesting options in the area (most of them in Olsztyn) - you will find some links below.
 
 **Hotels and B&Bs:**
 - [Hotel Marina Club](http://www.booking.com/Share-RbbJ6P)

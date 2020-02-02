@@ -19,7 +19,7 @@
   weight = 3
 
 [[main]]
-  name = "Noclegi i transport"
+  name = "Noclegi"
   url = "#nocleg"
   weight = 4
 

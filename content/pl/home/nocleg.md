@@ -17,7 +17,7 @@ title = "Noclegi"
 
 +++
 Niestety Pałac Warlity dysponuje ograniczoną liczbą pokoi.
-W okolicy jest sporo interesujących opcji, jeśli chodzi o noclegi (polecamy Olsztyn). Poniżej znajdziecie kilka linków. 
+W okolicy jest jednak sporo interesujących opcji, jeśli chodzi o noclegi (polecamy Olsztyn). Poniżej znajdziecie kilka linków. 
 
 **Hotele i pensjonaty:**
 - [Hotel Marina Club](http://www.booking.com/Share-RbbJ6P)
