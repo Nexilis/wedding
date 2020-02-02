@@ -16,7 +16,7 @@ title = "Noclegi"
   padding = ["100px", "0", "200px", "0"]
 
 +++
-Niestety liczba pokoi w Pałacu Warlity jest ograniczona.
+Niestety Pałac Warlity dysponuje ograniczoną liczbą pokoi.
 W okolicy jest sporo interesujących opcji, jeśli chodzi o noclegi (polecamy Olsztyn). Poniżej znajdziecie kilka linków. 
 
 **Hotele i pensjonaty:**

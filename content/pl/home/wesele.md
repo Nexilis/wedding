@@ -19,7 +19,3 @@ Tutaj zamieścimy informacje o jedzeniu.
 ### Stoliki
 
 Tutaj zamieścimy rozkład stolików.
-
-### Dzieci
-
-Tutaj zamieścimy informacje o atrakcjach dla dzieci.
