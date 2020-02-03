@@ -60,3 +60,25 @@ Koniecznie dajcie nam znać, czy możemy liczyć na Waszą obecność i czy maci
 
 Czekamy na Was!
 
+<div id="countdown-placeholder" />
+
+<script>
+var countdownDate = new Date("Jun 6, 2020 17:30:00").getTime();
+
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countdownDate - now
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  var distanceFormatted = days + "d " + hours + "h " + minutes + "m " + seconds + "s";
+
+  document.getElementById("countdown-placeholder").innerHTML = "To już za <strong>" + distanceFormatted + "</strong>";
+
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdown-placeholder").innerHTML = "Impreza już się odbyła!";
+  }
+}, 1000);
+</script>

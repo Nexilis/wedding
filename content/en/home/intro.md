@@ -24,3 +24,26 @@ Here you’ll find everything you need to know about our upcoming celebration.
 Please don’t forget to RSVP and let us know about any dietary preferences.
 
 We can’t wait to see you there!
+
+<div id="countdown-placeholder" />
+
+<script>
+var countdownDate = new Date("Jun 6, 2020 17:30:00").getTime();
+
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countdownDate - now
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  var distanceFormatted = days + "d " + hours + "h " + minutes + "m " + seconds + "s";
+
+  document.getElementById("countdown-placeholder").innerHTML = "It's happening in <strong>" + distanceFormatted + "</strong>";
+
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdown-placeholder").innerHTML = "The event has already taken place!";
+  }
+}, 1000);
+</script>
