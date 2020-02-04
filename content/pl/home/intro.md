@@ -63,9 +63,8 @@ Czekamy na Was!
 <div id="countdown-placeholder" />
 
 <script>
-var countdownDate = new Date("Jun 6, 2020 17:30:00").getTime();
-
-var x = setInterval(function() {
+function calculateRemaining() {
+  var countdownDate = new Date("Jun 6, 2020 17:30:00").getTime();
   var now = new Date().getTime();
   var distance = countdownDate - now
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
@@ -80,5 +79,7 @@ var x = setInterval(function() {
     clearInterval(x);
     document.getElementById("countdown-placeholder").innerHTML = "Impreza już się odbyła!";
   }
-}, 1000);
+};
+calculateRemaining();
+setInterval(calculateRemaining, 1000);
 </script>
