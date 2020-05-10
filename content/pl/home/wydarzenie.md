@@ -19,15 +19,15 @@ date_format = "Monday, 02 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Pałac Warlity, 17:30"
+  organization = "Pałac Warlity"
   title = "Ślub"
-  date_start = "2020-06-06"
+  date_start = "2021-06-19"
   description = "Ślub odbędzie się na terenie [Pałacu Warlity](https://warlity.pl/en/homeen/) nad jeziorem - około 100 metrów od pałacu."
 
 [[item]]
   organization = "Pałac Warlity, po ceremonii"
   title = "Wesele"
-  date_start = "2020-06-06"
+  date_start = "2021-06-19"
   description = "Impreza weselna odbędzie w Pałacu Warlity. Pamiętajcie o wygodnych butach do tańca! :)"
 
 
