@@ -29,7 +29,7 @@ We can’t wait to see you there!
 
 <script>
 function calculateRemaining() {
-  var countdownDate = new Date("Jun 6, 2020 17:30:00").getTime();
+  var countdownDate = new Date("Jun 19, 2021 17:00:00").getTime();
   var now = new Date().getTime();
   var distance = countdownDate - now
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
