@@ -1,42 +1,71 @@
-+++
-widget = "featurette"
-headless = true
-weight = 35
-title = "Attractions"
+[comment]: <> (+++)
 
-[[feature]]
-  icon = "dove"
-  icon_pack = "fas"
-  name = "Wedding"
-  description = "outdoor ceremony"
+[comment]: <> (widget = "featurette")
 
-[[feature]]
-  icon = "theater-masks"
-  icon_pack = "fas"
-  name = "Party"
-  description = "with you until the morning hours"
+[comment]: <> (headless = true)
 
-[[feature]]
-  icon = "swimmer"
-  icon_pack = "fas"
-  name = "Location"
-  description = "nature, park, and lake"
+[comment]: <> ([comment]: <> &#40;weight = 35&#41;)
 
-[[feature]]
-  icon = "record-vinyl"
-  icon_pack = "fas"
-  name = "DJ and host"
-  description = "good music, great fun"
+[comment]: <> (title = "Attractions")
 
-[[feature]]
-  icon = "utensils"
-  icon_pack = "fas"
-  name = "Food and drinks"
-  description = "local and delicious, open bar"
+[comment]: <> ([[feature]])
 
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photo booth"
-  description = "go back home with a little keepsake"
-+++
+[comment]: <> (  icon = "dove")
+
+[comment]: <> (  icon_pack = "fas")
+
+[comment]: <> (  name = "Wedding")
+
+[comment]: <> (  description = "outdoor ceremony")
+
+[comment]: <> ([[feature]])
+
+[comment]: <> (  icon = "theater-masks")
+
+[comment]: <> (  icon_pack = "fas")
+
+[comment]: <> (  name = "Party")
+
+[comment]: <> (  description = "with you until the morning hours")
+
+[comment]: <> ([[feature]])
+
+[comment]: <> (  icon = "swimmer")
+
+[comment]: <> (  icon_pack = "fas")
+
+[comment]: <> (  name = "Location")
+
+[comment]: <> (  description = "nature, park, and lake")
+
+[comment]: <> ([[feature]])
+
+[comment]: <> (  icon = "record-vinyl")
+
+[comment]: <> (  icon_pack = "fas")
+
+[comment]: <> (  name = "DJ and host")
+
+[comment]: <> (  description = "good music, great fun")
+
+[comment]: <> ([[feature]])
+
+[comment]: <> (  icon = "utensils")
+
+[comment]: <> (  icon_pack = "fas")
+
+[comment]: <> (  name = "Food and drinks")
+
+[comment]: <> (  description = "local and delicious, open bar")
+
+[comment]: <> ([[feature]])
+
+[comment]: <> (  icon = "camera-retro")
+
+[comment]: <> (  icon_pack = "fas")
+
+[comment]: <> (  name = "Photo booth")
+
+[comment]: <> (  description = "go back home with a little keepsake")
+
+[comment]: <> (+++)

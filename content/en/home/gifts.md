@@ -1,24 +1,33 @@
-+++
-widget = "blank"
-headless = true
-active = true
-weight = 45
-title = "Gifts"
+[comment]: <> (+++)
 
-[design]
-  columns = "2"
+[comment]: <> (widget = "blank")
 
-[design.background]
-  text_color_light = false
+[comment]: <> (headless = true)
 
-[design.spacing]
+[comment]: <> (active = true)
 
-  padding = ["100px", "0", "100px", "0"]
+[comment]: <> ([comment]: <> &#40;weight = 45&#41;)
 
-+++
+[comment]: <> (title = "Gifts")
 
-{{< figure library="false" src="flowers.png" lightbox="true" >}}
-It has been proven that wine and good coffee help to keep your weight down. :)
+[comment]: <> ([design])
 
-{{< figure library="false" src="gifts.png" lightbox="true" >}}
-We already have everything we need, but we are saving up to travel the world.
+[comment]: <> (  columns = "2")
+
+[comment]: <> ([design.background])
+
+[comment]: <> (  text_color_light = false)
+
+[comment]: <> ([design.spacing])
+
+[comment]: <> (  padding = ["100px", "0", "100px", "0"])
+
+[comment]: <> (+++)
+
+[comment]: <> ({{< figure library="false" src="flowers.png" lightbox="true" >}})
+
+[comment]: <> (It has been proven that wine and good coffee help to keep your weight down. :&#41;)
+
+[comment]: <> ({{< figure library="false" src="gifts.png" lightbox="true" >}})
+
+[comment]: <> (We already have everything we need, but we are saving up to travel the world.)

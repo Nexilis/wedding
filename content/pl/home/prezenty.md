@@ -16,7 +16,7 @@ title = "Prezenty"
   
 +++
 {{< figure library="false" src="flowers.png" lightbox="true" >}}
-Amerykańscy naukowcy udowodnili, że od wina i dobrej kawy się chudnie. :sunglasses:
+Amerykańscy naukowcy udowodnili, że od wina i dobrej kawy się chudnie. :sunglasses: :upside_down_face:
 
 {{< figure library="false" src="gifts.png" lightbox="true" >}}
 Wszystko, co potrzebne do szczęścia już mamy, ale zbieramy na dalekie podróże.

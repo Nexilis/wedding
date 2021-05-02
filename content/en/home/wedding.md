@@ -1,21 +1,29 @@
-+++
-widget = "blank"
-headless = true
-active = true
-weight = 30
-title = "Wedding reception"
+[comment]: <> (+++)
 
-[design]
-  columns = "2"
+[comment]: <> (widget = "blank")
 
-[design.spacing]
-  padding = ["100px", "0", "100px", "0"]
-+++
+[comment]: <> (headless = true)
 
-### Menu
+[comment]: <> (active = true)
 
-Here we will post the menu.
+[comment]: <> (weight = 30)
 
-### Table layout
+[comment]: <> ([comment]: <> &#40;title = "Wedding reception"&#41;)
 
-Here we will place the table layout.
+[comment]: <> ([design])
+
+[comment]: <> (  columns = "2")
+
+[comment]: <> ([design.spacing])
+
+[comment]: <> (  padding = ["100px", "0", "100px", "0"])
+
+[comment]: <> (+++)
+
+[comment]: <> (### Menu)
+
+[comment]: <> (Here we will post the menu.)
+
+[comment]: <> (### Table layout)
+
+[comment]: <> (Here we will place the table layout.)
