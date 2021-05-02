@@ -4,52 +4,51 @@
 
 # Configure the English version of the site.
 
-defaultContentLanguage = "pl"
 [pl]
   languageCode = "pl-pl"
-   contentDir = "content/pl"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/pl"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   [pl.params]
      description = "👰🤵 Nasze Wesele"
 
-# [en]
-#   languageCode = "en-us"
-#   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-#   [en.params]
-#      description = "👰🤵 Our Wedding"
-#   [[en.menu.main]]
-#     name = "We're getting married!"
-#     url = "#intro"
-#     weight = 1
-#
-#   [[en.menu.main]]
-#     name = "Events"
-#     url = "#event"
-#     weight = 2
-#
-#   [[en.menu.main]]
-#     name = "Wedding reception"
-#     url = "#wedding"
-#     weight = 3
-#
-#   [[en.menu.main]]
-#     name = "Where to stay"
-#     url = "#accommodation"
-#     weight = 4
-#
-#   [[en.menu.main]]
-#     name = "About us"
-#     url = "#us"
-#     weight = 5
-#
-#   [[en.menu.main]]
-#     name = "Gallery"
-#     url = "#gallery"
-#     weight = 6
-#
-#   [[en.menu.main]]
-#     name = "Contact"
-#     url = "#contact"
-#     weight = 7
+ [en]
+   languageCode = "en-us"
+   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+   [en.params]
+      description = "👰🤵 Our Wedding"
+   [[en.menu.main]]
+     name = "We're getting married!"
+     url = "#intro"
+     weight = 1
+
+   [[en.menu.main]]
+     name = "Events"
+     url = "#event"
+     weight = 2
+
+   [[en.menu.main]]
+     name = "Wedding reception"
+     url = "#wedding"
+     weight = 3
+
+   [[en.menu.main]]
+     name = "Where to stay"
+     url = "#accommodation"
+     weight = 4
+
+   [[en.menu.main]]
+     name = "About us"
+     url = "#us"
+     weight = 5
+
+   [[en.menu.main]]
+     name = "Gallery"
+     url = "#gallery"
+     weight = 6
+
+   [[en.menu.main]]
+     name = "Contact"
+     url = "#contact"
+     weight = 7
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
