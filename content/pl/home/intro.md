@@ -53,8 +53,6 @@ subtitle = "Mamy nadzieję, że będziecie tego dnia z nami"
  # CSS class.
  css_class = ""
 +++
-TEST
-
 
 Witamy na naszej stronie ślubnej - super, że jesteście!
 

@@ -3,8 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 70
-
-[comment]: <> (title = "Photo gallery")
+title = "Photo gallery"
 
 [design]
   columns = "2"
