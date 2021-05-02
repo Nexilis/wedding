@@ -2,8 +2,7 @@
 widget = "blank"
 headless = true
 active = true
-
-[comment]: <> (weight = 45)
+weight = 45
 title = "Gifts"
 
 [design]

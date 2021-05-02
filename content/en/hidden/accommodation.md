@@ -2,8 +2,7 @@
 widget = "blank"
 headless = true
 active = true
-
-[comment]: <> (weight = 40)
+weight = 40
 title = "Where to stay"
 
 [design]

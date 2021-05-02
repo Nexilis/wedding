@@ -1,8 +1,7 @@
 +++
 widget = "featurette"
 headless = true
-
-[comment]: <> (weight = 35)
+weight = 35
 title = "Attractions"
 
 [[feature]]

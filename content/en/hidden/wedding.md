@@ -3,8 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 30
-
-[comment]: <> (title = "Wedding reception")
+title = "Wedding reception"
 
 [design]
   columns = "2"
