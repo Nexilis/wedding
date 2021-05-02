@@ -22,7 +22,7 @@ date_format = "Monday, 02 Jan 2006"
   organization = "Pałac Warlity"
   title = "Ślub"
   date_start = "2021-06-19"
-  description = "Ślub odbędzie się na terenie [Pałacu Warlity](https://warlity.pl/en/homeen/) nad jeziorem - około 100 metrów od pałacu."
+  description = "Ślub odbędzie się 19.06 o 16:00 na terenie [Pałacu Warlity](https://warlity.pl/en/homeen/) nad jeziorem - około 100 metrów od pałacu."
 
 [[item]]
   organization = "Pałac Warlity, po ceremonii"
