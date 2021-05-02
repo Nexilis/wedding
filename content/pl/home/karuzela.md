@@ -17,4 +17,19 @@ height = "450px"
 
 [[item]]
   overlay_img = "4.jpg"
+
+[[item]]
+  overlay_img = "5.jpg"
+
+[[item]]
+  overlay_img = "6.jpg"
+
+[[item]]
+  overlay_img = "7.jpg"
+
+[[item]]
+  overlay_img = "8.jpg"
+
+[[item]]
+  overlay_img = "9.jpg"
 +++
