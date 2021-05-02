@@ -28,7 +28,7 @@ date_format = "Monday, 02 Jan 2006"
   organization = "Pałac Warlity, po ceremonii"
   title = "Wesele"
   date_start = "2021-06-19"
-  description = "Kameralne przyjęcie weselna odbędzie w Pałacu Warlity. Pamiętajcie o wygodnych butach do tańca! :tada:"
+  description = "Kameralne przyjęcie weselne odbędzie w Pałacu Warlity. Pamiętajcie o wygodnych butach do tańca! :tada:"
 
 
 +++
