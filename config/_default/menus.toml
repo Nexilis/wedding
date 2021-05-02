@@ -24,11 +24,6 @@
   weight = 4
 
 [[main]]
-  name = "Nasza historia"
-  url = "#my"
-  weight = 5
-
-[[main]]
   name = "Galeria"
   url = "#galeria"
   weight = 6

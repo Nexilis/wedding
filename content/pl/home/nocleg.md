@@ -17,7 +17,7 @@ title = "Noclegi"
 
 +++
 Dla wygody zapewniamy naszym Gościom nocleg na miejscu po przyjęciu (z pysznym śniadaniem!).
-Możemy spokojnie bawić się do rana bez obaw o transport. :)
+Możemy spokojnie bawić się do rana bez obaw o nocny powrót. :simple_smile:
 
 Doba hotelowa trwa od 15:00 do 11:00.
 
