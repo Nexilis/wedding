@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 30
-title = "Wesele"
+title = "Menu"
 
 [design]
   columns = "2"
