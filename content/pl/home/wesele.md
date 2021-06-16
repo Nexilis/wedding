@@ -11,11 +11,4 @@ title = "Wesele"
 [design.spacing]
   padding = ["100px", "0", "100px", "0"]
 +++
-
-### Menu
-
-Tutaj zamieścimy informacje o jedzeniu.
-
-### Stoliki
-
-Tutaj zamieścimy rozkład stolików.
+{{< figure library="false" src="menu-weselne.jpg" lightbox="true" >}}
